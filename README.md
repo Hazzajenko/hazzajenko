@@ -6,9 +6,11 @@
 
 ## Current Project
 
-<a href="https://github.com/Hazzajenko/solar-engineer">
+<!-- <a href="https://github.com/Hazzajenko/solar-engineer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=vue" />
-</a>
+</a> -->
+
+<a  href="https://github.com/Hazzajenko/solar-engineer"><img width=60% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=dracula&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
 ## 💻 Tech Stack:
 <p align="center">
@@ -41,16 +43,16 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hazzajenko&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="readme-stats" style="vertical-align:top; margin:4px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazzajenko&theme=onedark&hide_border=false" alt="readme-streak-stats" style="vertical-align:top; margin:4px">
+    <img src="https://github-readme-stats.vercel.app/api?username=hazzajenko&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="readme-stats" style="vertical-align:top; margin:4px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazzajenko&theme=dracula&hide_border=false" alt="readme-streak-stats" style="vertical-align:top; margin:4px">
     <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzajenko&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top-langs" style="vertical-align:top; margin:4px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzajenko&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top-langs" style="vertical-align:top; margin:4px">
 </p>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=hazzajenko&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="profile-trophy" style="vertical-align:top; margin:4px">
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazzajenko&theme=vue" alt="graph" style="vertical-align:top; margin:4px">
