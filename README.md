@@ -43,6 +43,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hazzajenko&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="readme-stats" style="vertical-align:top; margin:4px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazzajenko&theme=onedark&hide_border=false" alt="readme-streak-stats" style="vertical-align:top; margin:4px">
+    <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzajenko&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top-langs" style="vertical-align:top; margin:4px">
 </p>
 
