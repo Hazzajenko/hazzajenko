@@ -12,8 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hazzajenko&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-[![hazzajenko's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hazzajenko&theme=vue)](https://github.com/hazzajenko/github-readme-activity-graph)
-
+[![Hazzajenko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hazzajenko&theme=vue)](https://github.com/Hazzajenko/github-readme-activity-graph)
 ---
 [![](https://visitcount.itsvg.in/api?id=hazzajenko&icon=0&color=0)](https://visitcount.itsvg.in)
 
