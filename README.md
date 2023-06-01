@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=vue" />
 </a> -->
 
-<a  href="https://github.com/Hazzajenko/solar-engineer"><img width=60% src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=dracula&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a  href="https://github.com/Hazzajenko/solar-engineer"><img width=300px src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=dracula&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
 ## 💻 Tech Stack:
 <p align="center">
