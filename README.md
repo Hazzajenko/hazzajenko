@@ -6,77 +6,15 @@
 
 ## Current Projects
 
-<!-- <a href="https://github.com/Hazzajenko/solar-engineer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=vue" />
-</a> -->
-
-<style>
-
-    .repo-group {
-        display: flex;
-        justify-content: start;
-        align-items: start;
-    }
-
-    @media (max-width: 480px) {
-        .repo-group {
-            flex-direction: column;
-        }
-    }
-
-    @media (max-width: 768px) {
-        .repo-group {
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
-        }
-    }
-
-    .repo-container {
-        padding: 0 20px;
-    }
-
-    @media (max-width: 480px) {
-        .repo-container {
-            padding: 0;
-        }
-    }
-
-    @media (max-width: 768px) {
-        .repo-container {
-            padding: 0;
-        }
-    }
-
-
-</style>
-
-<div
-class="repo-group">
-    <div
-    class="repo-container">
-        <a href="https://github.com/Hazzajenko/solar-engineer">
-            <img width="300px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
-        </a>
-    </div>
-
-<div >
+<div align="center">
+    <a href="https://github.com/Hazzajenko/solar-engineer">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+    </a>
     <a href="https://github.com/Hazzajenko/TypeForge">
-        <img width="300px" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=TypeForge&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats2">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=TypeForge&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats2">
     </a>
 </div>
-</div>
 
-<!-- <div style="display:flex;justify-content:start;align-items:start">
-    <a
-    style="padding: 0 20px"
-    href="https://github.com/Hazzajenko/solar-engineer"><img width=300px src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-
-<a href="https://github.com/Hazzajenko/TypeForge"><img width=300px src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=TypeForge&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats2"></a>
-
-
-</div> -->
-<!-- ## 💻 Tech Stack: -->
 <p align="center">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" style="vertical-align:top; margin:4px">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="vertical-align:top; margin:4px">
@@ -104,16 +42,13 @@ class="repo-group">
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure" style="vertical-align:top; margin:4px">
 </p>
 
-
-<!-- ## 📊 GitHub Stats: -->
 <p align="center">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=hazzajenko&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="readme-stats" style="vertical-align:top; margin:4px"> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazzajenko&theme=onedark&hide_border=false" alt="readme-streak-stats" style="vertical-align:top; margin:4px">
     <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzajenko&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top-langs" style="vertical-align:top; margin:4px">
 </p>
-<!--
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hazzajenko)](https://github.com/hazzajenko/github-readme-stats) -->
+
 
 <!-- ## 🏆 GitHub Trophies
 <p align="center">
