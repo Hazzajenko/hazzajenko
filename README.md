@@ -58,5 +58,9 @@
 </p> -->
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazzajenko&theme=vue" alt="graph" style="vertical-align:top; margin:4px">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazzajenko&theme=vue" alt="graph" style="vertical-align:top; margin:4px">
+</p>
+
+<p align="center">
+    <img src="https://wakatime.com/share/@hazzajenko/fe409068-9ac0-4985-b9fd-b7fbdacb5144.svg" alt="graph" style="vertical-align:top; margin:4px">
 </p>
