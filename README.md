@@ -11,6 +11,9 @@
     <a href="https://github.com/Hazzajenko/solar-engineer">
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
     </a>
+    <a href="https://github.com/Hazzajenko/Jetbrains-Highlight-on-Copy">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Jetbrains-Highlight-on-Copy&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats2">
+    </a>
     <a href="https://github.com/Hazzajenko/TypeForge">
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=TypeForge&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats2">
     </a>
