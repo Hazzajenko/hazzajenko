@@ -1,24 +1,28 @@
-
 ![banner](banner.png)
 
 [![](https://visitcount.itsvg.in/api?id=hazzajenko&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Building things in C#, Python, and whatever gets the job done
 
 ## Current Projects
 
 <div
  style="display: flex; flex-direction: row; justify-content: start; align-items: center; gap: 1rem; flex-wrap: wrap; padding: 1rem;"
  align="center">
-    <a href="https://github.com/Hazzajenko/solar-engineer">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+    <a href="https://github.com/Hazzajenko/Solar-Engineer">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="Solar-Engineer">
+    </a>
+    <a href="https://github.com/Hazzajenko/ClaudeAgentSdk.DotNet">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=ClaudeAgentSdk.DotNet&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="ClaudeAgentSdk.DotNet">
+    </a>
+    <a href="https://github.com/Hazzajenko/Ankive">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Ankive&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="Ankive">
     </a>
     <a href="https://github.com/Hazzajenko/Jetbrains-Highlight-on-Copy">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Jetbrains-Highlight-on-Copy&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats2">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Jetbrains-Highlight-on-Copy&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="Jetbrains-Highlight-on-Copy">
     </a>
-    <a href="https://github.com/Hazzajenko/TypeForge">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=TypeForge&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats2">
-    </a>
-     <a href="https://github.com/Hazzajenko/InterfaceGenerator">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=InterfaceGenerator&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats2">
+    <a href="https://github.com/Hazzajenko/HomeAgent">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=HomeAgent&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="HomeAgent">
     </a>
     <br />
  <br />
