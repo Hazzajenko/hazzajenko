@@ -22,8 +22,6 @@ CS student in Melbourne. I've built web apps, an IDE plugin, a .NET agent SDK, a
     <a href="https://store.steampowered.com/app/2776440/Sliced/">
         <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2776440/header.jpg?t=1707449374" alt="Sliced on Steam">
     </a>
-    <br />
-    <em>Sliced — on hold</em>
 </p>
 
 ## Activity
