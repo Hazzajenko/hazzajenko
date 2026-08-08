@@ -23,7 +23,7 @@ CS student in Melbourne. I've built web apps, an IDE plugin, a .NET agent SDK, a
         <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2776440/header.jpg?t=1707449374" alt="Sliced on Steam">
     </a>
     <br />
-    <em>Sliced — a game I took through Steam's store approval; on hold while I finish my degree.</em>
+    <em>Sliced — on hold</em>
 </p>
 
 ## Activity
