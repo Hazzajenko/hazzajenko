@@ -1,22 +1,16 @@
-![banner](banner.png)
+<img src="banner.png" alt="Hi, I'm Harry Jenkins" width="420">
 
-CS student in Melbourne. I've built web apps, an IDE plugin, a .NET agent SDK, and a game with a Steam page.
+CS student in Melbourne. Probably a little too interested in AI agents. Also building web apps, developer tools, and a game.
 
 📫 [jenkinsh1@outlook.com](mailto:jenkinsh1@outlook.com)
 
-## Projects
+## Project highlights
 
-<div align="center">
-    <a href="https://github.com/Hazzajenko/Solar-Engineer">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Solar-Engineer&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="Solar-Engineer">
-    </a>
-    <a href="https://github.com/Hazzajenko/ClaudeAgentSdk.DotNet">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=ClaudeAgentSdk.DotNet&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="ClaudeAgentSdk.DotNet">
-    </a>
-    <a href="https://github.com/Hazzajenko/Jetbrains-Highlight-on-Copy">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hazzajenko&repo=Jetbrains-Highlight-on-Copy&theme=onedark&hide_border=false&icon_color=F8D866&show_icons=false" alt="Jetbrains-Highlight-on-Copy">
-    </a>
-</div>
+- [Solar-Engineer](https://github.com/Hazzajenko/Solar-Engineer) lets users lay out solar panels, connect them into strings, and share projects with real-time updates.
+
+- [JetBrains Highlight on Copy](https://github.com/Hazzajenko/Jetbrains-Highlight-on-Copy) makes copied text visible with configurable highlighting, including multiple selections and whole-line copying. [Install the plugin](https://plugins.jetbrains.com/plugin/27575-highlight-on-copy).
+
+- [ClaudeAgentSdk.DotNet](https://github.com/Hazzajenko/ClaudeAgentSdk.DotNet) brings the official Python agent SDK to C#, with typed structured output and custom tools that run inside the application.
 
 <p align="center">
     <a href="https://store.steampowered.com/app/2776440/Sliced/">
@@ -24,8 +18,7 @@ CS student in Melbourne. I've built web apps, an IDE plugin, a .NET agent SDK, a
     </a>
 </p>
 
-## Activity
-
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazzajenko&theme=vue" alt="contribution activity graph">
+    Sliced is my PvP arena combat game, currently in development.<br>
+    <a href="https://store.steampowered.com/app/2776440/Sliced/">View on Steam</a>
 </p>
