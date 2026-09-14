@@ -10,7 +10,7 @@ CS student in Melbourne. Probably a little too interested in AI agents. Also bui
 
 - [JetBrains Highlight on Copy](https://github.com/Hazzajenko/Jetbrains-Highlight-on-Copy) makes copied text visible with configurable highlighting, including multiple selections and whole-line copying. [Install the plugin](https://plugins.jetbrains.com/plugin/27575-highlight-on-copy).
 
-- [ClaudeAgentSdk.DotNet](https://github.com/Hazzajenko/ClaudeAgentSdk.DotNet) brings the official Python agent SDK to C#, with typed structured output and custom tools that run inside the application.
+- [agsearch](https://github.com/Hazzajenko/agent-conversation-search) searches local Claude Code and Codex conversation history from the terminal. Built in Rust, with transcript export and failed-tool-call analysis.
 
 <p align="center">
     <a href="https://store.steampowered.com/app/2776440/Sliced/">
