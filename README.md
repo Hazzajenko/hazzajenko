@@ -4,11 +4,15 @@ CS student in Melbourne. Probably a little too interested in AI agents. Also bui
 
 📫 [jenkinsh1@outlook.com](mailto:jenkinsh1@outlook.com)
 
+My portfolio is at [hazzajenko.net](https://hazzajenko.net).
+
 ## Project highlights
 
 - [Solar-Engineer](https://github.com/Hazzajenko/Solar-Engineer) lets users lay out solar panels, connect them into strings, and share projects with real-time updates.
 
 - [JetBrains Highlight on Copy](https://github.com/Hazzajenko/Jetbrains-Highlight-on-Copy) makes copied text visible with configurable highlighting, including multiple selections and whole-line copying. [Install the plugin](https://plugins.jetbrains.com/plugin/27575-highlight-on-copy).
+
+- [Monopoly Deal](https://playmonopolydeal.com) is the card game as peer-to-peer multiplayer in the browser. The host browser runs the game engine, and other players join over WebRTC. Play it at playmonopolydeal.com.
 
 - [agsearch](https://github.com/Hazzajenko/agent-conversation-search) searches local Claude Code and Codex conversation history from the terminal. Built in Rust, with transcript export and failed-tool-call analysis.
 
